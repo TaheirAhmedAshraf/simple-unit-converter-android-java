@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_the_kg_value">Enter the KG value</string>
+    <string name="submit">submit</string>
+</resources>
